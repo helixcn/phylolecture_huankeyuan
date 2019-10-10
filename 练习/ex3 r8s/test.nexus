@@ -1,0 +1,257 @@
+#NEXUS
+[R-package APE, Wed Aug  8 10:54:37 2012]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 111;
+	TAXLABELS
+		Cornus
+		Grubbia
+		Loasa
+		Actinidia
+		Roridula
+		Clethra
+		Cyrilla
+		Camellia
+		Schima
+		Halesia
+		Styrax
+		Symplocos
+		Pentaphylax
+		Ternstroemia
+		Sladenia
+		Barringtonia
+		Diospyros
+		Manilkara
+		Myrsine
+		Primula
+		Theophrasta
+		Fouquieria
+		Polemonium
+		Impatiens
+		Pelliciera
+		Tetramerista
+		Marcgravia
+		Brunia
+		Columellia
+		Desfontainia
+		Acicarpha
+		Boopis
+		Helianthus
+		Scaevola
+		Menyanthes
+		Alseuosmia
+		Phelline
+		Argophyllum
+		Pentaphragma
+		Roussea
+		Stylidium
+		Eremosyne
+		Escallonia
+		Polyosma
+		Tribeles
+		Paracryphia
+		Quintinia
+		Diervilla
+		Dipsacus
+		Valeriana
+		Linnaea
+		Morina
+		Lonicera
+		Viburnum
+		Apium
+		Pittosporum
+		Aralia
+		Griselinia
+		Aralidium
+		Melanophylla
+		Torricellia
+		Cardiopteris
+		Helwingia
+		Phyllonoma
+		Ilex
+		Apodytes
+		Aucuba
+		Oncotheca
+		Borago
+		Vahlia
+		Plocosperma
+		Acanthus
+		Avicennia
+		Schlegelia
+		Sesamum
+		Stilbe
+		Jacaranda
+		Lamium
+		Verbena
+		Proboscidea
+		Cyclocheilon
+		Lindenbergia
+		Paulownia
+		Phryma
+		Androya
+		Myoporum
+		Buddleja
+		Scrophularia
+		Selago
+		Antirrhinum
+		Globularia
+		Plantago
+		Peltanthera
+		Streptocarpus
+		Polypremum
+		Tetrachondra
+		Olea
+		Grevea
+		Montinia
+		Kaliphora
+		Sphenoclea
+		Ipomoea
+		Nicotiana
+		Alstonia
+		Gentiana
+		Gelsemium
+		Logania
+		Luculia
+		Cassinopsis
+		Icacina
+		Pyrenacantha
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Cornus,
+		2	Grubbia,
+		3	Loasa,
+		4	Actinidia,
+		5	Roridula,
+		6	Clethra,
+		7	Cyrilla,
+		8	Camellia,
+		9	Schima,
+		10	Halesia,
+		11	Styrax,
+		12	Symplocos,
+		13	Pentaphylax,
+		14	Ternstroemia,
+		15	Sladenia,
+		16	Barringtonia,
+		17	Diospyros,
+		18	Manilkara,
+		19	Myrsine,
+		20	Primula,
+		21	Theophrasta,
+		22	Fouquieria,
+		23	Polemonium,
+		24	Impatiens,
+		25	Pelliciera,
+		26	Tetramerista,
+		27	Marcgravia,
+		28	Brunia,
+		29	Columellia,
+		30	Desfontainia,
+		31	Acicarpha,
+		32	Boopis,
+		33	Helianthus,
+		34	Scaevola,
+		35	Menyanthes,
+		36	Alseuosmia,
+		37	Phelline,
+		38	Argophyllum,
+		39	Pentaphragma,
+		40	Roussea,
+		41	Stylidium,
+		42	Eremosyne,
+		43	Escallonia,
+		44	Polyosma,
+		45	Tribeles,
+		46	Paracryphia,
+		47	Quintinia,
+		48	Diervilla,
+		49	Dipsacus,
+		50	Valeriana,
+		51	Linnaea,
+		52	Morina,
+		53	Lonicera,
+		54	Viburnum,
+		55	Apium,
+		56	Pittosporum,
+		57	Aralia,
+		58	Griselinia,
+		59	Aralidium,
+		60	Melanophylla,
+		61	Torricellia,
+		62	Cardiopteris,
+		63	Helwingia,
+		64	Phyllonoma,
+		65	Ilex,
+		66	Apodytes,
+		67	Aucuba,
+		68	Oncotheca,
+		69	Borago,
+		70	Vahlia,
+		71	Plocosperma,
+		72	Acanthus,
+		73	Avicennia,
+		74	Schlegelia,
+		75	Sesamum,
+		76	Stilbe,
+		77	Jacaranda,
+		78	Lamium,
+		79	Verbena,
+		80	Proboscidea,
+		81	Cyclocheilon,
+		82	Lindenbergia,
+		83	Paulownia,
+		84	Phryma,
+		85	Androya,
+		86	Myoporum,
+		87	Buddleja,
+		88	Scrophularia,
+		89	Selago,
+		90	Antirrhinum,
+		91	Globularia,
+		92	Plantago,
+		93	Peltanthera,
+		94	Streptocarpus,
+		95	Polypremum,
+		96	Tetrachondra,
+		97	Olea,
+		98	Grevea,
+		99	Montinia,
+		100	Kaliphora,
+		101	Sphenoclea,
+		102	Ipomoea,
+		103	Nicotiana,
+		104	Alstonia,
+		105	Gentiana,
+		106	Gelsemium,
+		107	Logania,
+		108	Luculia,
+		109	Cassinopsis,
+		110	Icacina,
+		111	Pyrenacantha
+	;
+	TREE * UNTITLED = [&R] (((1:0.033344,2:0.03672)HironoiaFossil:0.002779,3:0.050486):0.007297,((((((((4:0.027475,5:0.06403)SaurauiaFossil:0.008572,(6:0.021295,7:0.046044):0.003872):0.005097,((8:0.02185,9:0.016938):0.010644,((10:0.013596,11:0.032164):0.019832,12:0.047587):0.001631):0.001024):0.000972,((13:0.025918,14:0.015396)EuryaFossil:0.007122,15:0.03702):0.00273):0.000212,((16:0.055177,17:0.032376):0.002849,(18:0.034126,((19:0.031627,20:0.05681):0.024355,21:0.056845):0.037045):0.002338):0.000843):0.000435,(22:0.027071,23:0.081346):0.005239):0.007882,((24:0.083922,(25:0.040265,26:0.025141):0.012394):0.003428,27:0.020516):0.048613):0.019181,((((((28:0.053312,(29:0.047898,30:0.03355):0.029574):0.00141,((((((31:0.011488,32:0.015587):0.013311,33:0.045257):0.006027,34:0.093022):0.025051,35:0.022324):0.00626,((36:0.041692,37:0.021791):0.001769,38:0.037024):0.002591):0.005052,(39:0.076646,(40:0.059265,41:0.142503):0.003237):0.001489):0.020634):0.001803,((42:0.128158,43:0.042197):0.006358,(44:0.041906,45:0.054876):0.000821):0.004491):0.000519,(((46:0.019133,47:0.02397):0.002678,(((48:0.015704,((49:0.035314,50:0.086088):0.007744,(51:0.013926,52:0.02166):0.00075):0.017155):0.006656,53:0.028906):0.020884,54:0.024812):0.006809):0.001038,((((55:0.067128,56:0.03995):0.003543,57:0.029296)AraliaFossil:0.006883,58:0.014517):0.002293,(59:0.00924,(60:0.009026,61:0.014151):0.001714):0.014724):0.017736):0.000982):0.009105,(62:0.080762,((63:0.036317,64:0.060317):0.006752,65:0.029581)IlexFossil:0.019998):0.005551):0.004191,((66:0.038237,(67:0.045675,68:0.046818):0.002054):0.000261,((((69:0.11383,70:0.050253):0.002874,((71:0.069702,(((((((((((72:0.065707,73:0.045134):0.013275,74:0.013921):0.000932,(75:0.020531,76:0.026057):0.00135):0.000321,(77:0.01132,(78:0.071306,79:0.046395):0.003311):0.001207):0.00131,80:0.017023):0.000401,(((81:0.052841,82:0.041852):0.015915,83:0.015526):0.001561,84:0.038506):0.003228):0.003303,((85:0.014876,86:0.020026):0.011113,(87:0.012592,(88:0.02405,89:0.058011):0.002857):0.010787):0.004125):0.00172,(90:0.041777,(91:0.040728,92:0.105433):0.011348):0.010454):0.002046,(93:0.014593,94:0.076524):0.004741):0.015247,(95:0.03451,96:0.02771):0.028594):0.003733,97:0.026828):0.009032):0.014183,((((98:0.021931,99:0.026439):0.013159,100:0.03982):0.046619,101:0.07544):0.007293,(102:0.111866,103:0.060155):0.012334):0.005862):0.00116):0.002214,(((104:0.034547,105:0.126012):0.0071,(106:0.039903,107:0.061122):0.002067):0.011619,108:0.042946):0.030885):0.019158,(109:0.019714,(110:0.017279,111:0.067494):0.052918):0.002524)IcacinicaryaFossil:0.000806):0.006868):0.008989):0.003421)Asterids;
+END;
+
+begin r8s;
+blformat nsites=9914 lengths=persite;
+collapse;
+fixage taxon=Asterids age=128;
+constrain taxon=HironoiaFossil minage=88;
+constrain taxon=SaurauiaFossil minage=89;
+constrain taxon=EuryaFossil minage=86;
+constrain taxon=IcacinicaryaFossil minage=89;
+constrain taxon=IlexFossil minage=70;
+constrain taxon=AraliaFossil minage=70;
+set seed=3 num_time_guesses=3 num_restarts=3 maxiter=3000 verbose=0 smoothing=3;
+divtime method=nprs algorithm=powell;
+describe plot=phylogram; 
+describe plot=chronogram; 
+describe plot=tree_description; 
+describe plot=chrono_description;
+describe plot=phylo_description;
+describe plot=rato_description;
+showage;
+end;
+

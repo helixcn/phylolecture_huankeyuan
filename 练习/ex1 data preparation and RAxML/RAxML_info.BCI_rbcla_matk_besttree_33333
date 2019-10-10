@@ -1,0 +1,68 @@
+
+
+IMPORTANT WARNING: Sequences Garcinia_intermedia and Garcinia_madruno are exactly identical
+
+
+IMPORTANT WARNING: Sequences Guarea_‘fuzzy’ and Guarea_guidonia are exactly identical
+
+
+IMPORTANT WARNING: Sequences Piper_colonense and Piper_reticulatum are exactly identical
+
+IMPORTANT WARNING
+Found 3 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+An alignment file with sequence duplicates removed has already
+been printed to file BCI2.phy.reduced
+
+
+This is RAxML version 8.0.0 released by Alexandros Stamatakis on Dec 13 2013.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 1235 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 33.15%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1235
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+./raxml -f a -x 12345 -p 12345 -# 100 -m GTRGAMMA -s BCI2.phy -n BCI_rbcla_matk_besttree_33333 -T 2 
+
+
+
+Time for BS model parameter optimization 10.423282
+Bootstrap[0]: Time 32.120644 seconds, bootstrap likelihood -35625.658832, best rearrangement setting 13
+Bootstrap[1]: Time 17.325780 seconds, bootstrap likelihood -38500.383982, best rearrangement setting 13
+Bootstrap[2]: Time 18.891412 seconds, bootstrap likelihood -36320.530246, best rearrangement setting 12
+Bootstrap[3]: Time 18.414812 seconds, bootstrap likelihood -36760.231291, best rearrangement setting 15

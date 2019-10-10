@@ -1,0 +1,2 @@
+DNA, aligned_matk_renamed = 1 - 1034
+DNA, aligned_rbcla_renamed = 1035 - 1588

@@ -1,0 +1,218 @@
+
+
+IMPORTANT WARNING: Sequences sp6 and sp9 are exactly identical
+
+IMPORTANT WARNING
+Found 1 sequence that is exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file res.alignment.phy.reduced
+
+
+This is RAxML version 7.2.6 released by Alexandros Stamatakis in February 2010.
+
+With greatly appreciated code contributions by:
+Andre Aberer (TUM)
+Simon Berger (TUM)
+John Cazes (TACC)
+Michael Ott (TUM)
+Nick Pattengale (UNM)
+Wayne Pfeiffer (SDSC)
+
+
+Alignment has 348 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 15.92%
+
+RAxML rapid hill-climbing mode
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+Executing 50 inferences on the original alignment using 50 distinct randomized MP trees
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 348
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+raxmlHPC -m GTRGAMMA -#50 -s res.alignment.phy -n test_20140115 
+
+
+Inference[0]: Time 8.000000 GAMMA-based likelihood -3722.287848, best rearrangement setting 5
+alpha[0]: 1.650370 rates[0] ac ag at cg ct gt: 1.148890 2.589498 0.259039 0.846057 2.240533 1.000000 
+Inference[1]: Time 5.000000 GAMMA-based likelihood -3722.283335, best rearrangement setting 5
+alpha[0]: 1.649273 rates[0] ac ag at cg ct gt: 1.149088 2.590489 0.259143 0.846232 2.241441 1.000000 
+Inference[2]: Time 5.000000 GAMMA-based likelihood -3722.294643, best rearrangement setting 5
+alpha[0]: 1.650223 rates[0] ac ag at cg ct gt: 1.148369 2.588520 0.258914 0.845676 2.239589 1.000000 
+Inference[3]: Time 5.000000 GAMMA-based likelihood -3722.287397, best rearrangement setting 5
+alpha[0]: 1.650335 rates[0] ac ag at cg ct gt: 1.148957 2.589634 0.259055 0.846106 2.240659 1.000000 
+Inference[4]: Time 13.000000 GAMMA-based likelihood -3722.287707, best rearrangement setting 5
+alpha[0]: 1.650294 rates[0] ac ag at cg ct gt: 1.148898 2.589530 0.259041 0.846064 2.240556 1.000000 
+Inference[5]: Time 13.000000 GAMMA-based likelihood -3722.287320, best rearrangement setting 5
+alpha[0]: 1.650282 rates[0] ac ag at cg ct gt: 1.148962 2.589652 0.259056 0.846110 2.240671 1.000000 
+Inference[6]: Time 13.000000 GAMMA-based likelihood -3722.287008, best rearrangement setting 5
+alpha[0]: 1.650288 rates[0] ac ag at cg ct gt: 1.148955 2.589639 0.259055 0.846105 2.240659 1.000000 
+Inference[7]: Time 8.000000 GAMMA-based likelihood -3722.287021, best rearrangement setting 5
+alpha[0]: 1.650261 rates[0] ac ag at cg ct gt: 1.148952 2.589641 0.259054 0.846103 2.240659 1.000000 
+Inference[8]: Time 5.000000 GAMMA-based likelihood -3722.283060, best rearrangement setting 5
+alpha[0]: 1.649286 rates[0] ac ag at cg ct gt: 1.149080 2.590469 0.259141 0.846227 2.241423 1.000000 
+Inference[9]: Time 5.000000 GAMMA-based likelihood -3722.275543, best rearrangement setting 5
+alpha[0]: 1.649392 rates[0] ac ag at cg ct gt: 1.149724 2.591691 0.259296 0.846697 2.242596 1.000000 
+Inference[10]: Time 5.000000 GAMMA-based likelihood -3722.287919, best rearrangement setting 5
+alpha[0]: 1.650270 rates[0] ac ag at cg ct gt: 1.148912 2.589561 0.259045 0.846074 2.240584 1.000000 
+Inference[11]: Time 5.000000 GAMMA-based likelihood -3722.287911, best rearrangement setting 5
+alpha[0]: 1.650354 rates[0] ac ag at cg ct gt: 1.148884 2.589490 0.259038 0.846053 2.240524 1.000000 
+Inference[12]: Time 5.000000 GAMMA-based likelihood -3722.287125, best rearrangement setting 5
+alpha[0]: 1.650383 rates[0] ac ag at cg ct gt: 1.148949 2.589609 0.259053 0.846100 2.240639 1.000000 
+Inference[13]: Time 5.000000 GAMMA-based likelihood -3722.283588, best rearrangement setting 5
+alpha[0]: 1.649366 rates[0] ac ag at cg ct gt: 1.149071 2.590436 0.259139 0.846220 2.241398 1.000000 
+Inference[14]: Time 5.000000 GAMMA-based likelihood -3722.294190, best rearrangement setting 5
+alpha[0]: 1.650137 rates[0] ac ag at cg ct gt: 1.148402 2.588601 0.258922 0.845701 2.239659 1.000000 
+Inference[15]: Time 5.000000 GAMMA-based likelihood -3722.287904, best rearrangement setting 5
+alpha[0]: 1.650315 rates[0] ac ag at cg ct gt: 1.148884 2.589495 0.259038 0.846053 2.240526 1.000000 
+Inference[16]: Time 5.000000 GAMMA-based likelihood -3722.275613, best rearrangement setting 5
+alpha[0]: 1.649393 rates[0] ac ag at cg ct gt: 1.149719 2.591680 0.259294 0.846693 2.242587 1.000000 
+Inference[17]: Time 12.000000 GAMMA-based likelihood -3722.276304, best rearrangement setting 5
+alpha[0]: 1.649325 rates[0] ac ag at cg ct gt: 1.149660 2.591581 0.259280 0.846651 2.242486 1.000000 
+Inference[18]: Time 13.000000 GAMMA-based likelihood -3722.276054, best rearrangement setting 5
+alpha[0]: 1.649328 rates[0] ac ag at cg ct gt: 1.149680 2.591620 0.259285 0.846665 2.242524 1.000000 
+Inference[19]: Time 15.000000 GAMMA-based likelihood -3722.276343, best rearrangement setting 5
+alpha[0]: 1.649313 rates[0] ac ag at cg ct gt: 1.149656 2.591575 0.259279 0.846647 2.242480 1.000000 
+Inference[20]: Time 11.000000 GAMMA-based likelihood -3722.299098, best rearrangement setting 5
+alpha[0]: 1.648852 rates[0] ac ag at cg ct gt: 1.147814 2.588131 0.258838 0.845315 2.239094 1.000000 
+Inference[21]: Time 12.000000 GAMMA-based likelihood -3722.276017, best rearrangement setting 5
+alpha[0]: 1.649399 rates[0] ac ag at cg ct gt: 1.149654 2.591555 0.259278 0.846645 2.242468 1.000000 
+Inference[22]: Time 6.000000 GAMMA-based likelihood -3722.275631, best rearrangement setting 5
+alpha[0]: 1.649408 rates[0] ac ag at cg ct gt: 1.149717 2.591676 0.259294 0.846691 2.242584 1.000000 
+Inference[23]: Time 5.000000 GAMMA-based likelihood -3722.283756, best rearrangement setting 5
+alpha[0]: 1.649307 rates[0] ac ag at cg ct gt: 1.149056 2.590418 0.259135 0.846208 2.241377 1.000000 
+Inference[24]: Time 5.000000 GAMMA-based likelihood -3722.284072, best rearrangement setting 5
+alpha[0]: 1.649265 rates[0] ac ag at cg ct gt: 1.149029 2.590375 0.259129 0.846189 2.241333 1.000000 
+Inference[25]: Time 5.000000 GAMMA-based likelihood -3722.282970, best rearrangement setting 5
+alpha[0]: 1.649212 rates[0] ac ag at cg ct gt: 1.149085 2.590493 0.259142 0.846230 2.241440 1.000000 
+Inference[26]: Time 5.000000 GAMMA-based likelihood -3722.287411, best rearrangement setting 5
+alpha[0]: 1.650295 rates[0] ac ag at cg ct gt: 1.148954 2.589635 0.259054 0.846104 2.240656 1.000000 
+Inference[27]: Time 5.000000 GAMMA-based likelihood -3722.293855, best rearrangement setting 5
+alpha[0]: 1.650186 rates[0] ac ag at cg ct gt: 1.148399 2.588587 0.258921 0.845698 2.239649 1.000000 
+Inference[28]: Time 5.000000 GAMMA-based likelihood -3722.283151, best rearrangement setting 5
+alpha[0]: 1.649266 rates[0] ac ag at cg ct gt: 1.149073 2.590457 0.259139 0.846221 2.241410 1.000000 
+Inference[29]: Time 5.000000 GAMMA-based likelihood -3722.286963, best rearrangement setting 5
+alpha[0]: 1.650255 rates[0] ac ag at cg ct gt: 1.148957 2.589651 0.259055 0.846107 2.240668 1.000000 
+Inference[30]: Time 5.000000 GAMMA-based likelihood -3722.275264, best rearrangement setting 5
+alpha[0]: 1.649447 rates[0] ac ag at cg ct gt: 1.149716 2.591667 0.259293 0.846691 2.242579 1.000000 
+Inference[31]: Time 5.000000 GAMMA-based likelihood -3722.283927, best rearrangement setting 5
+alpha[0]: 1.649367 rates[0] ac ag at cg ct gt: 1.149045 2.590385 0.259132 0.846200 2.241350 1.000000 
+Inference[32]: Time 5.000000 GAMMA-based likelihood -3722.276267, best rearrangement setting 5
+alpha[0]: 1.649296 rates[0] ac ag at cg ct gt: 1.149662 2.591589 0.259280 0.846652 2.242490 1.000000 
+Inference[33]: Time 5.000000 GAMMA-based likelihood -3722.276396, best rearrangement setting 5
+alpha[0]: 1.649390 rates[0] ac ag at cg ct gt: 1.149655 2.591556 0.259279 0.846646 2.242468 1.000000 
+Inference[34]: Time 9.000000 GAMMA-based likelihood -3722.293972, best rearrangement setting 5
+alpha[0]: 1.650178 rates[0] ac ag at cg ct gt: 1.148389 2.588569 0.258919 0.845691 2.239632 1.000000 
+Inference[35]: Time 5.000000 GAMMA-based likelihood -3722.275651, best rearrangement setting 5
+alpha[0]: 1.649314 rates[0] ac ag at cg ct gt: 1.149712 2.591683 0.259293 0.846688 2.242582 1.000000 
+Inference[36]: Time 11.000000 GAMMA-based likelihood -3722.275742, best rearrangement setting 5
+alpha[0]: 1.649391 rates[0] ac ag at cg ct gt: 1.149675 2.591599 0.259284 0.846662 2.242510 1.000000 
+Inference[37]: Time 7.000000 GAMMA-based likelihood -3722.287328, best rearrangement setting 5
+alpha[0]: 1.650288 rates[0] ac ag at cg ct gt: 1.148961 2.589648 0.259056 0.846109 2.240668 1.000000 
+Inference[38]: Time 5.000000 GAMMA-based likelihood -3722.276122, best rearrangement setting 5
+alpha[0]: 1.649328 rates[0] ac ag at cg ct gt: 1.149675 2.591609 0.259284 0.846662 2.242512 1.000000 
+Inference[39]: Time 5.000000 GAMMA-based likelihood -3722.276322, best rearrangement setting 5
+alpha[0]: 1.649405 rates[0] ac ag at cg ct gt: 1.149661 2.591568 0.259280 0.846651 2.242481 1.000000 
+Inference[40]: Time 5.000000 GAMMA-based likelihood -3722.275679, best rearrangement setting 5
+alpha[0]: 1.649271 rates[0] ac ag at cg ct gt: 1.149676 2.591625 0.259284 0.846663 2.242523 1.000000 
+Inference[41]: Time 5.000000 GAMMA-based likelihood -3722.276093, best rearrangement setting 5
+alpha[0]: 1.649386 rates[0] ac ag at cg ct gt: 1.149648 2.591544 0.259277 0.846641 2.242457 1.000000 
+Inference[42]: Time 5.000000 GAMMA-based likelihood -3722.287018, best rearrangement setting 5
+alpha[0]: 1.650348 rates[0] ac ag at cg ct gt: 1.148957 2.589630 0.259055 0.846106 2.240656 1.000000 
+Inference[43]: Time 13.000000 GAMMA-based likelihood -3722.275198, best rearrangement setting 5
+alpha[0]: 1.649353 rates[0] ac ag at cg ct gt: 1.149718 2.591689 0.259294 0.846694 2.242591 1.000000 
+Inference[44]: Time 14.000000 GAMMA-based likelihood -3722.276261, best rearrangement setting 5
+alpha[0]: 1.649335 rates[0] ac ag at cg ct gt: 1.149663 2.591585 0.259281 0.846653 2.242490 1.000000 
+Inference[45]: Time 13.000000 GAMMA-based likelihood -3722.294328, best rearrangement setting 5
+alpha[0]: 1.650187 rates[0] ac ag at cg ct gt: 1.148392 2.588574 0.258920 0.845693 2.239637 1.000000 
+Inference[46]: Time 13.000000 GAMMA-based likelihood -3722.293876, best rearrangement setting 5
+alpha[0]: 1.650141 rates[0] ac ag at cg ct gt: 1.148396 2.588589 0.258920 0.845696 2.239647 1.000000 
+Inference[47]: Time 12.000000 GAMMA-based likelihood -3722.288119, best rearrangement setting 5
+alpha[0]: 1.650374 rates[0] ac ag at cg ct gt: 1.148901 2.589516 0.259042 0.846065 2.240550 1.000000 
+Inference[48]: Time 17.000000 GAMMA-based likelihood -3722.277183, best rearrangement setting 5
+alpha[0]: 1.648985 rates[0] ac ag at cg ct gt: 1.149552 2.591564 0.259253 0.846569 2.242383 1.000000 
+Inference[49]: Time 13.000000 GAMMA-based likelihood -3722.276353, best rearrangement setting 5
+alpha[0]: 1.649314 rates[0] ac ag at cg ct gt: 1.149655 2.591575 0.259279 0.846647 2.242480 1.000000 
+
+
+Conducting final model optimizations on all 50 trees under GAMMA-based models ....
+
+Inference[0] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.0
+Inference[1] final GAMMA-based Likelihood: -3720.100278 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.1
+Inference[2] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.2
+Inference[3] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.3
+Inference[4] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.4
+Inference[5] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.5
+Inference[6] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.6
+Inference[7] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.7
+Inference[8] final GAMMA-based Likelihood: -3720.099812 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.8
+Inference[9] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.9
+Inference[10] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.10
+Inference[11] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.11
+Inference[12] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.12
+Inference[13] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.13
+Inference[14] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.14
+Inference[15] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.15
+Inference[16] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.16
+Inference[17] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.17
+Inference[18] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.18
+Inference[19] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.19
+Inference[20] final GAMMA-based Likelihood: -3720.120774 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.20
+Inference[21] final GAMMA-based Likelihood: -3720.099812 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.21
+Inference[22] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.22
+Inference[23] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.23
+Inference[24] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.24
+Inference[25] final GAMMA-based Likelihood: -3720.099812 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.25
+Inference[26] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.26
+Inference[27] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.27
+Inference[28] final GAMMA-based Likelihood: -3720.099812 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.28
+Inference[29] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.29
+Inference[30] final GAMMA-based Likelihood: -3720.099812 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.30
+Inference[31] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.31
+Inference[32] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.32
+Inference[33] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.33
+Inference[34] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.34
+Inference[35] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.35
+Inference[36] final GAMMA-based Likelihood: -3720.099812 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.36
+Inference[37] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.37
+Inference[38] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.38
+Inference[39] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.39
+Inference[40] final GAMMA-based Likelihood: -3720.099812 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.40
+Inference[41] final GAMMA-based Likelihood: -3720.099812 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.41
+Inference[42] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.42
+Inference[43] final GAMMA-based Likelihood: -3720.099896 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.43
+Inference[44] final GAMMA-based Likelihood: -3720.100277 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.44
+Inference[45] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.45
+Inference[46] final GAMMA-based Likelihood: -3720.099811 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.46
+Inference[47] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.47
+Inference[48] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.48
+Inference[49] final GAMMA-based Likelihood: -3720.100289 tree written to file C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_result.test_20140115.RUN.49
+
+
+Starting final GAMMA-based thorough Optimization on tree 0 likelihood -3720.099811 .... 
+
+Final GAMMA-based Score of best tree -3720.099811
+
+Program execution info written to C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_info.test_20140115
+Best-scoring ML tree written to: C:\Users\Jinlong\Desktop\XTBG training\exercise\第一天 练习\练习9 RAxML\RAxML_bestTree.test_20140115
+
+Overall execution time: 400.000000 secs or 0.111111 hours or 0.004630 days
+

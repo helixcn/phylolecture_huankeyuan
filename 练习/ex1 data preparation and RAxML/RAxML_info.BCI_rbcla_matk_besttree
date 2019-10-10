@@ -1,0 +1,91 @@
+
+
+IMPORTANT WARNING: Sequences Garcinia_intermedia and Garcinia_madruno are exactly identical
+
+
+IMPORTANT WARNING: Sequences Guarea_‘fuzzy’ and Guarea_guidonia are exactly identical
+
+
+IMPORTANT WARNING: Sequences Piper_colonense and Piper_reticulatum are exactly identical
+
+IMPORTANT WARNING
+Found 3 sequences that are exactly identical to other sequences in the alignment.
+Normally they should be excluded from the analysis.
+
+Just in case you might need it, an alignment file with 
+sequence duplicates removed is printed to file BCI2.phy.reduced
+
+
+This is RAxML version 8.0.0 released by Alexandros Stamatakis on Dec 13 2013.
+
+With greatly appreciated code contributions by:
+Andre Aberer      (HITS)
+Simon Berger      (HITS)
+Alexey Kozlov     (HITS)
+Nick Pattengale   (Sandia)
+Wayne Pfeiffer    (SDSC)
+Akifumi S. Tanabe (NRIFS)
+David Dao         (KIT)
+Charlie Taylor    (UF)
+
+
+Alignment has 1235 distinct alignment patterns
+
+Proportion of gaps and completely undetermined characters in this alignment: 33.15%
+
+RAxML rapid bootstrapping and subsequent ML search
+
+Using 1 distinct models/data partitions with joint branch length optimization
+
+
+
+Executing 100 rapid bootstrap inferences and thereafter a thorough ML search 
+
+All free model parameters will be estimated by RAxML
+GAMMA model of rate heteorgeneity, ML estimate of alpha-parameter
+
+GAMMA Model parameters will be estimated up to an accuracy of 0.1000000000 Log Likelihood units
+
+Partition: 0
+Alignment Patterns: 1235
+Name: No Name Provided
+DataType: DNA
+Substitution Matrix: GTR
+
+
+
+
+RAxML was called as follows:
+
+./raxml -f a -x 12345 -p 12345 -# 100 -m GTRGAMMA -s BCI2.phy -n BCI_rbcla_matk_besttree -T 2 
+
+
+
+Time for BS model parameter optimization 5.582401
+Bootstrap[0]: Time 17.369622 seconds, bootstrap likelihood -35625.658832, best rearrangement setting 13
+Bootstrap[1]: Time 9.943175 seconds, bootstrap likelihood -38500.383982, best rearrangement setting 13
+Bootstrap[2]: Time 10.686788 seconds, bootstrap likelihood -36320.530246, best rearrangement setting 12
+Bootstrap[3]: Time 10.625584 seconds, bootstrap likelihood -36760.231291, best rearrangement setting 15
+Bootstrap[4]: Time 9.295669 seconds, bootstrap likelihood -36980.573017, best rearrangement setting 10
+Bootstrap[5]: Time 14.608281 seconds, bootstrap likelihood -36694.424659, best rearrangement setting 10
+Bootstrap[6]: Time 19.176732 seconds, bootstrap likelihood -36302.116375, best rearrangement setting 6
+Bootstrap[7]: Time 18.500997 seconds, bootstrap likelihood -37177.510992, best rearrangement setting 14
+Bootstrap[8]: Time 16.681382 seconds, bootstrap likelihood -37011.734210, best rearrangement setting 5
+Bootstrap[9]: Time 18.436608 seconds, bootstrap likelihood -37283.282874, best rearrangement setting 7
+Bootstrap[10]: Time 16.493686 seconds, bootstrap likelihood -35046.083030, best rearrangement setting 7
+Bootstrap[11]: Time 10.642843 seconds, bootstrap likelihood -35907.372851, best rearrangement setting 5
+Bootstrap[12]: Time 11.257503 seconds, bootstrap likelihood -35240.662042, best rearrangement setting 8
+Bootstrap[13]: Time 10.675999 seconds, bootstrap likelihood -35144.612644, best rearrangement setting 7
+Bootstrap[14]: Time 17.864751 seconds, bootstrap likelihood -36827.647675, best rearrangement setting 12
+Bootstrap[15]: Time 11.592101 seconds, bootstrap likelihood -37012.475815, best rearrangement setting 15
+Bootstrap[16]: Time 11.709854 seconds, bootstrap likelihood -35938.081123, best rearrangement setting 12
+Bootstrap[17]: Time 11.555491 seconds, bootstrap likelihood -37590.716458, best rearrangement setting 12
+Bootstrap[18]: Time 10.109927 seconds, bootstrap likelihood -37687.602693, best rearrangement setting 5
+Bootstrap[19]: Time 12.148881 seconds, bootstrap likelihood -35036.300829, best rearrangement setting 8
+Bootstrap[20]: Time 14.230043 seconds, bootstrap likelihood -35352.968152, best rearrangement setting 10
+Bootstrap[21]: Time 13.382459 seconds, bootstrap likelihood -36984.120490, best rearrangement setting 6
+Bootstrap[22]: Time 10.751540 seconds, bootstrap likelihood -36472.820510, best rearrangement setting 5
+Bootstrap[23]: Time 10.522297 seconds, bootstrap likelihood -35494.557983, best rearrangement setting 7
+Bootstrap[24]: Time 11.206775 seconds, bootstrap likelihood -36931.083782, best rearrangement setting 8
+Bootstrap[25]: Time 10.268214 seconds, bootstrap likelihood -36115.046769, best rearrangement setting 6
+Bootstrap[26]: Time 11.449472 seconds, bootstrap likelihood -35071.651048, best rearrangement setting 12

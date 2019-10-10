@@ -1,0 +1,63 @@
+#NEXUS
+[R-package APE, Fri Sep 13 09:26:23 2019]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 25;
+	TAXLABELS
+		Chimonanthus_salicifolius
+		Neolitsea_aurata_var._chekiangensis
+		Machilus_thunbergii
+		Cyclobalanopsis_gracilis
+		Cyclobalanopsis_glauca
+		Lithocarpus_glaber
+		Castanopsis_eyrei
+		Castanopsis_carlesii
+		Castanopsis_tibetana
+		Castanopsis_fargesii
+		Myrica_rubra
+		Elaeocarpus_decipiens
+		Syzygium_buxifolium
+		Daphniphyllum_oldhamii
+		Loropetalum_chinense
+		Rhododendron_latoucheae
+		Vaccinium_carlesii
+		Rhododendron_ovatum
+		Ternstroemia_gymnanthera
+		Adinandra_millettii
+		Eurya_muricata
+		Schima_superba
+		Camellia_fraterna
+		Ginkgo_biloba
+		Pinus_massoniana
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Chimonanthus_salicifolius,
+		2	Neolitsea_aurata_var._chekiangensis,
+		3	Machilus_thunbergii,
+		4	Cyclobalanopsis_gracilis,
+		5	Cyclobalanopsis_glauca,
+		6	Lithocarpus_glaber,
+		7	Castanopsis_eyrei,
+		8	Castanopsis_carlesii,
+		9	Castanopsis_tibetana,
+		10	Castanopsis_fargesii,
+		11	Myrica_rubra,
+		12	Elaeocarpus_decipiens,
+		13	Syzygium_buxifolium,
+		14	Daphniphyllum_oldhamii,
+		15	Loropetalum_chinense,
+		16	Rhododendron_latoucheae,
+		17	Vaccinium_carlesii,
+		18	Rhododendron_ovatum,
+		19	Ternstroemia_gymnanthera,
+		20	Adinandra_millettii,
+		21	Eurya_muricata,
+		22	Schima_superba,
+		23	Camellia_fraterna,
+		24	Ginkgo_biloba,
+		25	Pinus_massoniana
+	;
+	TREE * UNTITLED = [&R] ((24:290,25:290)Acrogymnospermae:62.2342,((1:108.8,(2:88.1284,3:88.1284)Lauraceae:20.672)Laurales:71.8279,(((16:62.0517,17:62.0517,18:62.0517)Ericaceae:20.7165,((22:57.076,23:57.076):14.7492,(19:43.8733,(20:33.7061,21:33.7061):10.1672):27.9519):10.943):36.3974,((14:107.877,15:107.877):9.79685,(13:117.535,(12:113.259,(11:62.3054,((4:20.205,5:20.205)Cyclobalanopsis:20.205,(6:3.30372,(7:0.94544,(8:0.320126,(9:0.28527,10:0.28527):0.034856):0.625313):2.35828):37.1063)Fagaceae:21.8954):50.9532)Fabidae:4.27613)Rosidae:0.138911)Superrosidae:1.49186)Gunneridae:61.4628):171.606)Spermatophyta:88.0587;
+END;

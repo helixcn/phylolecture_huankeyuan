@@ -1,0 +1,7 @@
+IQ-TREE multicore version 1.6.11 for Mac OS X 64-bit built Jul 12 2019
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor,
+Heiko Schmidt, Dominik Schrempf, Michael Woodhams.
+
+Host:    Jinlongs-MacBook-Pro.local (AVX2, FMA3, 8 GB RAM)
+Command: iqtree -s BCI.phy
+Seed:    511772 (Using SPRNG - Scalable Parallel Random Number Generator)
